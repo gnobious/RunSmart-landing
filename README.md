@@ -33,7 +33,7 @@ In  this  project i practice:
 
 <h2 id="demo">Demo 🎥</h2>
 
-The completed project can be viewed [here](https://gnobious.github.io/RunSmart-landing/ "demo url")
+The completed project can be viewed [here](https://rimerian.github.io/RunSmart-landing/ "demo url")
 
 <h2 id="how-to-use">How to Use 🔧</h2>
 The setup required can be broken into two types:
@@ -56,7 +56,7 @@ From your command line, first clone RunSmart:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gnobious/RunSmart-landing.git
+$ git clone https://github.com/rimerian/RunSmart-landing.git
 
 # Go into the repository
 $ cd RunSmart-landing
@@ -98,7 +98,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:3000/` and you will see the website running on a Development Server:
                        
 <h3 align="center">
-  <img src="https://github.com/gnobious/RunSmart-landing/blob/master/src/img/example.png" alt="RunSmart" width="100%">
+  <img src="https://github.com/rimerian/RunSmart-landing/blob/master/src/img/example.png" alt="RunSmart" width="100%">
 </h3>
 
 <h2 id="features-and-structure">Features and structure 📓</h2>
@@ -314,7 +314,7 @@ The following third-party solutions were used and adapted for the project:
 <h2 id="layout">Layout ✒️</h2>
 
 The site layout is shown below. 
-The layout in another formats is also available in the [repository](https://github.com/gnobious/RunSmart-landing/blob/master/src/references/layouts/ "layouts source").
+The layout in another formats is also available in the [repository](https://github.com/rimerian/RunSmart-landing/blob/master/src/references/layouts/ "layouts source").
 
 ![Full-size site layout](src/references/layouts/RunSmart.png)
 
